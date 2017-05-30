@@ -1,6 +1,3 @@
 theme: jekyll-theme-leap-day
 
-defaults:
-  -
-    site:
-      title: "WLMAC Math Club"
+site.title: "WLMAC Math Club"
