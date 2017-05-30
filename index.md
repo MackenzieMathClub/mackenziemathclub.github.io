@@ -1,5 +1,4 @@
 ---
-layout: default
 title: William Lyon Mackenzie Math Club
 ---
 
