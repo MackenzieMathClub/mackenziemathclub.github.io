@@ -43,3 +43,6 @@ collections:
   senior:
     output: true
     permalink: /:collection/:name
+  junior:
+    output: true
+    permalink: /:collection/:name

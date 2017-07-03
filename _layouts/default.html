@@ -37,6 +37,14 @@
 					</li>
 				{% endfor %}
 			</ul>
+			Junior lessons:
+			<ul>
+				{% for lesson in site.junior %}
+					<li>
+						<a href="{{ lesson.url }}">{{ lesson.title }}</a>
+					</li>
+				{% endfor %}
+			</ul>
 		</nav>
 		<!--[if !IE]><script>fixScale(document);</script><![endif]-->
 	</body>
