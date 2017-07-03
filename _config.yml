@@ -24,7 +24,6 @@ github_username: MackenzieMathClub
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-leap-day
 gems:
   - jekyll-feed
 
