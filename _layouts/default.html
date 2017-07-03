@@ -20,6 +20,14 @@
 			<p>{{ site.description | default: site.github.project_tagline }}</p>
 		</header>
 
+		<div class="wrapper">
+			<section>
+				{{ content }}
+
+			</section>
+			<footer>
+			</footer>
+		</div>
 		<nav>
 			Senior lessons:
 			<ul>
@@ -30,14 +38,6 @@
 				{% endfor %}
 			</ul>
 		</nav>
-		<div class="wrapper">
-			<section>
-				{{ content }}
-
-			</section>
-			<footer>
-			</footer>
-		</div>
 		<!--[if !IE]><script>fixScale(document);</script><![endif]-->
 	</body>
 </html>
