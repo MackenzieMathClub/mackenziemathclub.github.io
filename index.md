@@ -1,5 +1,7 @@
 ---
-title: Home
+title: William Lyon Mackenzie Math Club
+description: Home Page
+layout: default
 ---
 This site is under construction for the 2017-2018 school year.
 

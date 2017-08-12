@@ -1,51 +1,35 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
 	<head>
-		<meta charset="utf-8">
-		<meta http-equiv="X-UA-Compatible" content="chrome=1">
-		<title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+		<meta charset="UTF-8">
+		<title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title | default: site.github.repository_name }}</title>
+		<meta name="description" content="{{ page.description | default: site.description | default: site.github.project_tagline }}"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="theme-color" content="#3737b4">
+		<link rel="shortcut icon" href="/favicon.ico">
 		<link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-		<script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-		<!--[if lt IE 9]>
-			<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<![endif]-->
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+		{% seo title=false %}
 	</head>
 	<body>
+		<section class="page-header">
+			<h1 class="page-name">{{ page.title | default: site.title}}</h1>
+			<h2 class="page-tagline">{{ page.description | default: site.description}}</h2>
+			<nav>
+				<ul>
+					<li><a href="/">Home</a></li>
+					<li><a href="/junior-lessons/">Junior Lesson</a></li>
+					<li><a href="/senior-lessons/">Senior Lesson</a></li>
+					<li><a href="/contact/">Contact</a></li>
+				<ul>
+			</nav>
+		</section>
 
-		<header>
-			<h1>{{ site.title | default: site.github.repository_name }}</h1>
-			<p>{{ site.description | default: site.github.project_tagline }}</p>
-		</header>
+		<section class="main-content">
+			{{ content }}
 
-		<div class="wrapper">
-			<section>
-				{{ content }}
-
-			</section>
-			<footer>
+			<footer class="site-footer">
+				<!--<img src="/assets/logo.svg">-->
 			</footer>
-		</div>
-		<nav>
-			Senior lessons:
-			<ul>
-				{% for lesson in site.senior %}
-					<li>
-						<a href="{{ lesson.url }}">{{ lesson.title }}</a>
-					</li>
-				{% endfor %}
-			</ul>
-			Junior lessons:
-			<ul>
-				{% for lesson in site.junior %}
-					<li>
-						<a href="{{ lesson.url }}">{{ lesson.title }}</a>
-					</li>
-				{% endfor %}
-			</ul>
-		</nav>
-		<!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		</section>
 	</body>
 </html>
