@@ -26,6 +26,7 @@ github_username: MackenzieMathClub
 markdown: kramdown
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -38,6 +39,9 @@ gems:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+sass:
+  style: compressed
 
 collections:
   senior:
