@@ -11,7 +11,19 @@ The 2017-2018 math club will be run by Vincent Macri, Samantha Unger, and Caroli
 
 [Send us an email.](mailto:math@vincemacri.ca)
 
-### Permission form for contests
+# Important dates
+## 2018-02-27 (Tuesday)
+Pascal (Gr. 9)\\
+Cayley (Gr. 10)\\
+Fermat (Gr. 11)
+## 2018-04-11 (Wednesday)
+Euclid (Gr. 12)
+## 2018-04-12 (Thursday)
+Fryer (Gr. 9)\\
+Galois (Gr. 10)\\
+Hypatia (Gr. 11)
+
+## Permission form for contests
 <div class="object-wrapper">
 	<object data="/assets/documents/PermissionForm.pdf" type="application/pdf" width="100%" height="100%">
 		<p>Your browser does not seem to support embedded PDF files. <a href="/assets/documents/PermissionForm.pdf">Download the PDF here.</a></p>
