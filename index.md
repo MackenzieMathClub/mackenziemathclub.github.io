@@ -25,10 +25,3 @@ Euclid (Gr. 12)
 Fryer (Gr. 9)\\
 Galois (Gr. 10)\\
 Hypatia (Gr. 11)
-
-## Permission form for contests
-<div class="object-wrapper">
-	<object data="/assets/documents/PermissionForm.pdf" type="application/pdf" width="100%" height="100%">
-		<p>Your browser does not seem to support embedded PDF files. <a href="/assets/documents/PermissionForm.pdf">Download the PDF here.</a></p>
-	</object>
-</div>
