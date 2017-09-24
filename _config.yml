@@ -50,3 +50,7 @@ collections:
   junior:
     output: true
     permalink: /lessons/:collection/:name
+
+kramdown:
+  math_engine_opts:
+    preview: true
