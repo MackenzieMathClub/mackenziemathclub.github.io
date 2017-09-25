@@ -1,6 +1,6 @@
 ---
 title: Lessons
-description: Lessons for all students.
+description: Lessons for all members of Math Club.
 layout: default
 permalink: /lessons/
 ---
