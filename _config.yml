@@ -43,14 +43,6 @@ gems:
 sass:
   style: compressed
 
-collections:
-  senior:
-    output: true
-    permalink: /lesson/:collection/:name
-  junior:
-    output: true
-    permalink: /lessons/:collection/:name
-
 kramdown:
   math_engine_opts:
     preview: true

@@ -5,16 +5,11 @@ layout: default
 permalink: /lessons/
 ---
 
-# Intermediate
 <div>
-	{% for lesson in site.junior %}
-		<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
-	{% endfor %}
-</div>
-
-# Advanced
-<div>
-	{% for lesson in site.senior %}
-		<a href="{{ lesson.url }}">{{ lesson.title }}</a><br>
+	{% for lesson in site.data.lessons %}
+		<dt>Lesson {{ lesson.id }}: {{ lesson.date }}</dt>
+		<dd>
+			<a href="{{ lesson.url }}">{{ lesson.title }}</a>
+		</dd>
 	{% endfor %}
 </div>

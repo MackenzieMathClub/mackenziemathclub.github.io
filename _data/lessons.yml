@@ -1,0 +1,10 @@
+# This is how to add a lesson:
+# - title: The Lesson Title
+#   date: YYYY-MM-DD
+#   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
+#   url: The URL to view the lesson at.
+
+- title: Probability
+  date: 2017-10-02
+  id: 1
+  url: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Probability/Probability.pdf
