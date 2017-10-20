@@ -11,4 +11,4 @@ permalink: /contact/
 [Caroline Liu](mailto:carolinecliu@gmail.com)
 
 # Staff Supervisor
-Mrs. Gugoiu
+[Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca)
