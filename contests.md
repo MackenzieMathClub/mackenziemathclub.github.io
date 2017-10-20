@@ -5,7 +5,8 @@ layout: default
 permalink: /contests/
 ---
 
-[Sign up for the COMC](https://docs.google.com/forms/d/e/1FAIpQLSdz3Und3i7DNpzduTC-rJge3Sz81hPyyTE4zqbJMv-dtzcHog/viewform?usp=sf_link)
+# Next Contest: Canadian Open Mathematics Challenge
+The COMC is on Thursday, November 2nd. Registration is closed.
 
 # Important dates
 ## 2018-02-27 (Tuesday)
