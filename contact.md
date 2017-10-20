@@ -10,5 +10,6 @@ permalink: /contact/
 [Samantha Unger](mailto:sammydsu@gmail.com)\\
 [Caroline Liu](mailto:carolinecliu@gmail.com)
 
-# Staff Supervisor
-[Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca)
+# Staff Supervisors
+[Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) (Senior branch)
+Mrs. Spiliopolous (Junior branch)
