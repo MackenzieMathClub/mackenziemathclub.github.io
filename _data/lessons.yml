@@ -2,10 +2,11 @@
 # - title: The Lesson Title
 #   date: YYYY-MM-DD
 #   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
-#   url: The URL to view the lesson at.
+#   presentation: The URL to view the presentation at.
+#   worksheet: The URL to view the presentation at. (optional)
 
 - title: Probability
-  date: 2017-10-02
+  date: 2017-10-2
   id: 1
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Probability/Probability.pdf
 
@@ -14,3 +15,9 @@
   id: 2
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Exploding%20Dots/ExplodingDotsPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Exploding%20Dots/ExplodingDotsWorksheet.pdf
+
+- title: Geometry 1
+  date: 2017-10-23
+  id: 3
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Geometry%201/Geometry1Presentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Lessons/Geometry%201/Geometry1Worksheet.pdf
