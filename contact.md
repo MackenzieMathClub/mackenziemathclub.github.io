@@ -12,6 +12,6 @@ permalink: /contact/
 
 # Staff Supervisors
 ## Junior branch
-Mrs. Spiliopoulos(mailto:anna.spiliopoulos@tdsb.on.ca)
+[Mrs. Spiliopoulos](mailto:anna.spiliopoulos@tdsb.on.ca)
 ## Senior branch
 [Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca)
