@@ -6,12 +6,11 @@ permalink: /contests/
 ---
 
 # Open Registration
-## Canadian Senior and Intermediate Mathematics Contests
-[Register to write the Waterloo CIMC or CSMC.](https://docs.google.com/forms/d/e/1FAIpQLSf3ixyM2tn7yO6c_OIURCgtJE7iArXIjCKkrTLnAbDzUULakQ/viewform?usp=sf_link)
+Currently no contests are open for registration. We email all members when sign ups for any contest open, so make sure that you have registered!
 
 # Upcoming Contests
-## Canadian Open Mathematics Challenge
-The COMC is on Thursday, November 2nd. Registration is closed.
+## Canadian Senior and Intermediate Mathematics Contests
+The CSMC and CIMC are on Wednesday, November 22nd.
 
 # Important dates
 ## 2018-02-27 (Tuesday)
