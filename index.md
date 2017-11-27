@@ -5,7 +5,7 @@ layout: default
 ---
 
 <div class="big">
-	<a href="https://docs.google.com/forms/d/e/1FAIpQLSep96V56cLMw8NlLrIVQUZOxjBxU7iJSyFpDpnj6kJT8ZCfVw/viewform?usp=sf_link">Click here to join the 130+ people in Math Club!</a>
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSep96V56cLMw8NlLrIVQUZOxjBxU7iJSyFpDpnj6kJT8ZCfVw/viewform?usp=sf_link">Click here to join the 140+ people in Math Club!</a>
 </div>
 
 Welcome to the website for the William Lyon Mackenzie C.I. Math Club!
