@@ -1,7 +1,7 @@
 # This is how to add a lesson:
 # - title: The Lesson Title
 #   date: YYYY-MM-DD
-#   id: Some sort of identifier unique to the lesson. It is okay for other branches to use the same identifier. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
+#   id: Some sort of identifier unique to the lesson. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   presentation: The URL to view the presentation at.
 #   worksheet: The URL to view the presentation at. (optional)
 
@@ -33,3 +33,9 @@
   id: 5
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Sequences%20and%20Series/SequencesAndSeriesPresentation.pdf
   worksheet: http://www.cemc.uwaterloo.ca/contests/euclid_eWorkshop/eew_ps5.pdf
+
+- title: Game Theory
+  date: 2017-11-27
+  id: 6
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryWorksheet.pdf
