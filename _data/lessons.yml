@@ -39,3 +39,14 @@
   id: 6
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryWorksheet.pdf
+
+- title: Boolean Algebra
+  date: 2017-12-04
+  id: 7
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Boolean%20Algebra/BooleanAlgebra.pdf
+
+- title: Group Theory
+  date: 2017-12-11
+  id: 8
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Group%20Theory/GroupTheoryPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Group%20Theory/GroupTheoryWorksheet.pdf
