@@ -6,7 +6,11 @@ permalink: /contests/
 ---
 
 # Open Registration
+[Registration for the AMC contest on Thursday, February 15th is now open.](https://goo.gl/forms/hUd4AOXD2v5ZeF5q1)
+
+<!--
 Currently no contests are open for registration. We email all members when sign ups for any contest open, so make sure that you have [registered](https://docs.google.com/forms/d/e/1FAIpQLSep96V56cLMw8NlLrIVQUZOxjBxU7iJSyFpDpnj6kJT8ZCfVw/viewform?usp=sf_link)!
+-->
 
 # Upcoming Contests
 ## Canadian Senior and Intermediate Mathematics Contests
