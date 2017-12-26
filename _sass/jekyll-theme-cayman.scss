@@ -376,15 +376,8 @@ a {
 nav {
 	a {
 		color: $nav-text-color;
-	}
-	ul {
-		list-style-type: none;
-		margin: 0;
-		padding: 0;
-	}
-	li {
-		display: inline;
-		margin: 2vw;
+		width: 10em;
+		margin: 0 2vw;
 	}
 }
 

@@ -14,14 +14,7 @@
 		<section class="page-header">
 			<h1 class="page-name">{{ page.title | default: site.title}}</h1>
 			<h2 class="page-tagline">{{ page.description | default: site.description}}</h2>
-			<nav>
-				<ul>
-					<li><a href="/">Home</a></li>
-					<li><a href="/contests/">Contests</a></li>
-					<li><a href="/lessons/">Lessons</a></li>
-					<li><a href="/contact/">Contact</a></li>
-				<ul>
-			</nav>
+			{% include nav.html %}
 		</section>
 
 		<section class="main-content">
