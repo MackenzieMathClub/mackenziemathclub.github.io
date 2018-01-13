@@ -56,3 +56,9 @@
   id: 9
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%202/Geometry2Presentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%202/Geometry2Worksheet.pdf
+
+- title: Cryptography
+  date: 2018-01-08
+  id: 10
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyWorksheet.pdf
