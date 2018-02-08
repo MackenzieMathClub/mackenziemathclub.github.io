@@ -6,11 +6,7 @@ permalink: /contests/
 ---
 
 # Open Registration
-[Registration for the Pascal, Cayley, and Fermat contests on Tuesday, February 27th is now open.](https://goo.gl/forms/BTzJJ9dVJbDRBcdD2)
-
-<!--
 Currently no contests are open for registration. We email all members when sign ups for any contest open, so make sure that you have [registered](https://docs.google.com/forms/d/e/1FAIpQLSep96V56cLMw8NlLrIVQUZOxjBxU7iJSyFpDpnj6kJT8ZCfVw/viewform?usp=sf_link)!
--->
 
 # Upcoming Contests
 
