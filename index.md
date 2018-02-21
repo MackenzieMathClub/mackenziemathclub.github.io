@@ -10,7 +10,7 @@ layout: default
 
 Welcome to the website for the William Lyon Mackenzie C.I. Math Club!
 
-The 2017-2018 math club is run by Vincent Macri, Samantha Unger, and Caroline Liu.
+The 2017--2018 math club is run by Vincent Macri, Samantha Unger, and Caroline Liu.
 
 [Apply to be a guest lecturer](https://docs.google.com/forms/d/e/1FAIpQLSd9JaZl7vY55LYRP9iUShm8M-RnZyhLyJWiTCd_rmvSsUeOqw/viewform?usp=sf_link)
 
