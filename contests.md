@@ -6,7 +6,13 @@ permalink: /contests/
 ---
 
 # Open Registration
+[Register for the Fryer, Galois, or Hypatia contest](https://docs.google.com/forms/d/e/1FAIpQLScT2ZiHT1kIuK9NWt6eSRso_IUPsxOoKVWtYLcr5Db8OXg8sg/viewform?usp=sf_link)
+
+[Register for the Euclid contest](https://docs.google.com/forms/d/e/1FAIpQLSdxt4jwsO6SuCKCSyH1dGNUx0MDeWJtZrQ2aqImoK-96uiBXg/viewform?usp=sf_link)
+
+<!--
 Currently no contests are open for registration. We email all members when sign ups for any contest open, so make sure that you have [registered](https://docs.google.com/forms/d/e/1FAIpQLSep96V56cLMw8NlLrIVQUZOxjBxU7iJSyFpDpnj6kJT8ZCfVw/viewform?usp=sf_link)!
+-->
 
 # Upcoming Contests
 
@@ -16,7 +22,7 @@ Pascal (Gr. 9)\\
 Cayley (Gr. 10)\\
 Fermat (Gr. 11)
 ## 2018-04-11 (Wednesday)
-Euclid (Gr. 12)
+Euclid (Open to all grades)
 ## 2018-04-12 (Thursday)
 Fryer (Gr. 9)\\
 Galois (Gr. 10)\\
