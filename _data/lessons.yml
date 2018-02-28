@@ -62,3 +62,9 @@
   id: 10
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyWorksheet.pdf
+
+- title: Euclid 1
+  date: 2018-02-26
+  id: 11
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%201/EuclidPrep1Presentation.pdf
+  worksheet: https://cemc.math.uwaterloo.ca/contests/euclid_eWorkshop/eew_ps1.pdf
