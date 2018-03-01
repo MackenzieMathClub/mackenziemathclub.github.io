@@ -12,6 +12,7 @@ permalink: /contests/
 
 # Check if you are registered
 [Check if you are registered for Fryer, Galois, or Hypatia](https://docs.google.com/spreadsheets/d/108UI6QhG_JoAhxS3g54vN04dWpdsjffC4bba01rBts4/edit?usp=sharing)
+
 [Check if you are registered for Euclid](https://docs.google.com/spreadsheets/d/1IScAL6cSXG3optU7INbxhVlUlmvgisvzah4ijrpD1lY/edit?usp=sharing)
 
 <!--
