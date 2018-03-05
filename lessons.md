@@ -7,7 +7,7 @@ permalink: /lessons/
 
 <div>
 	{% for lesson in site.data.lessons %}
-		<dt>Lesson {{ lesson.id }}: {{ lesson.title }} {{ lesson.date }}</dt>
+		<dt>Lesson {{ lesson.id }}. {{ lesson.title }} {{ lesson.date }}</dt>
 		<dd>
 			<a href="{{ lesson.presentation }}">{{ lesson.title }} Presentation</a>
 			{% if lesson.worksheet %}
