@@ -1,76 +1,86 @@
 # This is how to add a lesson:
-# - title: The Lesson Title
+# - title: "The Lesson Title"
 #   date: YYYY-MM-DD
 #   id: Some sort of identifier unique to the lesson. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   presentation: The URL to view the presentation at.
 #   worksheet: The URL to view the presentation at. (optional)
 
-- title: Probability
+- title: "Probability"
   date: 2017-10-2
   id: 1
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Probability/Probability.pdf
 
-- title: Exploding Dots
+- title: "Exploding Dots"
   date: 2017-10-16
   id: 2
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Exploding%20Dots/ExplodingDotsPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Exploding%20Dots/ExplodingDotsWorksheet.pdf
 
-- title: Geometry 1
+- title: "Geometry 1"
   date: 2017-10-23
   id: 3
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%201/Geometry1Presentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%201/Geometry1Worksheet.pdf
 
-- title: Sets
+- title: "Sets"
   date: 2017-11-06
   id: 4
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Sets/SetsPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Sets/SetsWorksheet.pdf
 
-- title: Sequences and Series
+- title: "Sequences and Series"
   date: 2017-11-13
   id: 5
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Sequences%20and%20Series/SequencesAndSeriesPresentation.pdf
   worksheet: http://www.cemc.uwaterloo.ca/contests/euclid_eWorkshop/eew_ps5.pdf
 
-- title: Game Theory
+- title: "Game Theory"
   date: 2017-11-27
   id: 6
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Game%20Theory/GameTheoryWorksheet.pdf
 
-- title: Boolean Algebra
+- title: "Boolean Algebra"
   date: 2017-12-04
   id: 7
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Boolean%20Algebra/BooleanAlgebra.pdf
 
-- title: Group Theory
+- title: "Group Theory"
   date: 2017-12-11
   id: 8
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Group%20Theory/GroupTheoryPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Group%20Theory/GroupTheoryWorksheet.pdf
 
-- title: Geometry 2
+- title: "Geometry 2"
   date: 2017-12-18
   id: 9
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%202/Geometry2Presentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Geometry%202/Geometry2Worksheet.pdf
 
-- title: Cryptography
+- title: "Cryptography"
   date: 2018-01-08
   id: 10
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Cryptography/CryptographyWorksheet.pdf
 
 - title: "Euclid 1: Logarithms, Exponents, Functions, and Equations"
+  nickname: "Euclid 1"
   date: 2018-02-26
   id: 11
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%201/EuclidPrep1Presentation.pdf
   worksheet: https://cemc.math.uwaterloo.ca/contests/euclid_eWorkshop.html
 
 - title: "Euclid 2: Analytic Geometry"
+  nickname: "Euclid 2"
   date: 2018-03-05
   id: 12
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%202/EuclidPrep2Presentation.pdf
   worksheet: https://cemc.math.uwaterloo.ca/contests/euclid_eWorkshop.html
+
+- title: "Euclid 3: Circle Geometry"
+  nickname: "Euclid 3"
+  date: 2018-03-19
+  id: 13
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%203/EuclidPrep3Presentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%203/EuclidPrep3Worksheet.pdf
+  problems: https://cemc.math.uwaterloo.ca/contests/euclid_eWorkshop.html
