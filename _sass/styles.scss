@@ -37,6 +37,7 @@ body {
 a {
 	color: $body-link-color;
 	text-decoration: none;
+	transition: text-decoration 1s;
 
 	&:hover {
 		text-decoration: underline;
@@ -45,40 +46,38 @@ a {
 
 .btn {
 	display: inline-block;
-	margin-bottom: 1rem;
-	color: rgba(255, 255, 255, 0.7);
-	background-color: rgba(255, 255, 255, 0.08);
-	border-color: rgba(255, 255, 255, 0.2);
-	border-style: solid;
-	border-width: 1px;
+	margin: 1vh 1vw;
+	padding: 1vmin 0;
+	background-color: $nav-bg-color;
+	color: $header-bg-color;
 	border-radius: 0.3rem;
-	transition: color 0.2s, background-color 0.2s, border-color 0.2s;
+	transition: background-color 0.5s, color 0.5s, letter-spacing 0.25s;
 
 	&:hover {
-		color: rgba(255, 255, 255, 0.8);
 		text-decoration: none;
-		background-color: rgba(255, 255, 255, 0.2);
-		border-color: rgba(255, 255, 255, 0.3);
-	}
-
-	+ .btn {
-		margin-left: 1rem;
+		background-color: $nav-highlight-color;
+		color: $nav-bg-color;
+		text-decoration: none;
 	}
 
 	@include large {
-		padding: 0.75rem 1rem;
+		font-size: 1.5em;
+		min-width: 20%;
+		max-width: 25%;
 	}
 
 	@include medium {
-		padding: 0.6rem 0.9rem;
-		font-size: 0.9rem;
+		font-size: 1.25em;
+		padding: 2vh 0;
+		min-width: 34%;
+		margin: 1vh 5vw;
 	}
 
 	@include small {
+		font-size: 1.25em;
 		display: block;
 		width: 100%;
 		padding: 0.75rem;
-		font-size: 0.9rem;
 
 		+ .btn {
 			margin-top: 1rem;
@@ -115,15 +114,15 @@ a {
 	margin-bottom: 0.1rem;
 
 	@include large {
-		font-size: 3.25rem;
+		font-size: 4rem;
 	}
 
 	@include medium {
-		font-size: 2.25rem;
+		font-size: 3rem;
 	}
 
 	@include small {
-		font-size: 1.75rem;
+		font-size: 2rem;
 	}
 }
 
@@ -374,10 +373,15 @@ a {
 }
 
 nav {
+	min-width: 15em;
 	a {
-		color: $nav-text-color;
-		width: 10em;
-		margin: 0 2vw;
+		font-weight: bold;
+		display: inline-block;
+		width: 9em;
+		letter-spacing: 1px;
+		&:hover {
+			letter-spacing: 2px;
+		}
 	}
 }
 
