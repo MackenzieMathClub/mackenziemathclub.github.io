@@ -1,5 +1,6 @@
 # This is how to add a lesson:
 # - title: "The Lesson Title"
+#   nickname: "Lesson Short Name" (Optional)
 #   date: YYYY-MM-DD
 #   id: Some sort of identifier unique to the lesson. This is usually the lesson number (1, 2, 3, etc.). Use a consistent format.
 #   presentation: The URL to view the presentation at.
@@ -91,3 +92,9 @@
   id: 14
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%204/EuclidPrep4Presentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Euclid%20Prep%204/EuclidPrep4Worksheet.pdf
+
+- title: "Inequalities and Extrema"
+  date: 2018-04-16
+  id: 15
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Inequalities/InequalitiesPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Inequalities/InequalitiesWorksheet.pdf
