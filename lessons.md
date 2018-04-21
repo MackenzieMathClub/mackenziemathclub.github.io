@@ -6,7 +6,7 @@ permalink: /lessons/
 ---
 
 <div>
-	{% for lesson in site.data.lessons %}
+	{% for lesson in site.data.lessons reversed %}
 		<dt>Lesson {{ lesson.id }}. {{ lesson.title }} {{ lesson.date }}</dt>
 		{% assign title = lesson.title %}
 		{% if lesson.nickname %}
