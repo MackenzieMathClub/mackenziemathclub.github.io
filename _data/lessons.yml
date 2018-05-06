@@ -103,3 +103,16 @@
   date: 2018-04-23
   id: 16
   presentation: https://xkcd.com/435/
+
+- title: "Lambda Calculus"
+  date: 2018-04-30
+  id: 17
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Lambda%20Calculus/LambdaCalculusPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Lambda%20Calculus/LambdaCalculusWorksheet.pdf
+
+- title: "Complex Numbers and the Riemann Hypothesis"
+  nickname: "Riemann Hypothesis"
+  date: 2018-05-07
+  id: 18
+  presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Riemann%20Hypothesis/RiemannHypothesisPresentation.pdf
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Riemann%20Hypothesis/RiemannHypothesisWorksheet.pdf
