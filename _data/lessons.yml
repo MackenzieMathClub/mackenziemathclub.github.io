@@ -116,3 +116,10 @@
   id: 18
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Riemann%20Hypothesis/RiemannHypothesisPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Riemann%20Hypothesis/RiemannHypothesisWorksheet.pdf
+
+- title: "Borsuk-Ulam Theorem | The Stolen Necklace Problem"
+  nickname: "Borsuk-Ulam"
+  date: 2018-05-14
+  id: 19
+  presentation: https://docs.google.com/presentation/d/1pl4bj-TDZmLggC2RKR_GFMhlH-G0nIy_GOcXCW_xOvQ/edit?usp=sharing
+  worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Borsuk-Ulam/Borsuk-UlamWorksheet.pdf
