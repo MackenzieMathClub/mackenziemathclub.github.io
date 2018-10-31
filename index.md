@@ -15,3 +15,12 @@ The 2018--2019 math club is run by Chloe Nguyen, Lev Raizman, and Richard Yi.
 
 [Check us out on GitHub](https://github.com/MackenzieMathClub)
 -->
+<div class="big">
+CIMC/CSMC Registration is open!
+</div>
+
+<div class="big">
+	<a href="https://docs.google.com/forms/d/e/1FAIpQLSeY1jHQEeX6Ku6LKMnAn4TGIdFH6yMdunSKLrgzqoJ6bIvUVQ/viewform?usp=sf_link">
+		Click here to register
+	</a>
+</div>

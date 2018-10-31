@@ -6,12 +6,15 @@ permalink: /contact/
 ---
 
 # Presidents
-[Vincent Macri](mailto:math@vincemacri.ca) math@vincemacri.ca\\
-[Samantha Unger](mailto:sammydsu@gmail.com) sammydsu@gmail.com\\
-[Caroline Liu](mailto:carolinecliu@gmail.com) carolinecliu@gmail.com
+Chloe Nguyen
+
+Lev Raizman
+
+Richard Yi (richardyi25@gmail.com)
 
 # Staff Supervisors
-## Junior branch
-[Mrs. Spiliopoulos](mailto:anna.spiliopoulos@tdsb.on.ca) anna.spiliopoulos@tdsb.on.ca
-## Senior branch
 [Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) iulia.gugoiu@tdsb.on.ca
+
+
+## Shared Contact Email (slower response)
+wlmacmathclub@gmail.com
