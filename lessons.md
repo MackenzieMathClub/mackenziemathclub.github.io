@@ -5,6 +5,10 @@ layout: default
 permalink: /lessons/
 ---
 
+2018-2019 Lessons coming soon!™
+
+<div class="big">Lessons Archive</div>
+
 <div>
 	{% for lesson in site.data.lessons reversed %}
 		<dt>Lesson {{ lesson.id }}. {{ lesson.title }} {{ lesson.date }}</dt>
