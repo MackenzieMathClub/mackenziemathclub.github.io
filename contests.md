@@ -13,6 +13,7 @@ permalink: /contests/
 
 <hr/>
 
+<!--
 <a href="/">
 	Sign up for Fryer, Galois, Hypatia!
 </a>
@@ -22,4 +23,4 @@ permalink: /contests/
 <a href="/">
 	Sign up for Euclid!
 </a>
-
+-->
