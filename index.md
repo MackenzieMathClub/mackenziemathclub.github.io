@@ -4,10 +4,8 @@ description: Home Page
 layout: default
 ---
 <div class="big">
-	Pascal, Cayley, and Fermat Contest Signups are still open!
-	<br/>
-	<a href="https://docs.google.com/forms/d/1335WoTnBx3ArD11jcHVtKj6RYx4zo4G8Nkgm96uSOAs/">
-		Sign up now!
+	<a href="/contests">
+		Fryer/Galois/Hypatia and Euclid signups are open!
 	</a>
 </div>
 

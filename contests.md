@@ -6,21 +6,13 @@ permalink: /contests/
 ---
 
 <div class="big">
-	<a href="https://docs.google.com/forms/d/1335WoTnBx3ArD11jcHVtKj6RYx4zo4G8Nkgm96uSOAs/">
-		Sign up for Pascal, Cayley, Fermat!
+	<a href="https://goo.gl/forms/L307LQpokftFoDpI3">
+		Sign up for Fryer/Galois/Hypatia!
+	</a>
+
+	<hr/>
+
+	<a href="https://goo.gl/forms/fipxclUzPQyu3nH82">
+		Sign up for Euclid!
 	</a>
 </div>
-
-<hr/>
-
-<!--
-<a href="/">
-	Sign up for Fryer, Galois, Hypatia!
-</a>
-
-<hr/>
-
-<a href="/">
-	Sign up for Euclid!
-</a>
--->

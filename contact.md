@@ -12,7 +12,7 @@ Lev Raizman
 
 [Richard Yi](mailto:richardyi25@gmail.com) | richardyi25@gmail.com
 <br/>
-(Please email him; he might be inactive on Messenger/Discord)
+(Please email him; he might be inactive on Messenger/Discord/Skype/AOL/MSN/MySpace/Google Talk)
 
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
