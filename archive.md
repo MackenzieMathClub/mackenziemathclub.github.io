@@ -4,6 +4,9 @@ description: Lessons from previosu years for all members of Math Club.
 layout: default
 permalink: /archive/
 ---
+
+2018-2019 Lessons coming soon!™
+
 <div class="big">Former Lessons Archive</div>
 
 <div>
