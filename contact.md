@@ -6,6 +6,13 @@ permalink: /contact/
 ---
 
 # Presidents
+Ruven Raizman
+
+[Jiayue Wu](mailto:mckee11223@gmail.com) | mckee11223@gmail.com
+<br/>
+(Also available on Discord and Messenger)
+
+<!---
 Chloe Nguyen
 
 Lev Raizman
@@ -13,11 +20,12 @@ Lev Raizman
 [Richard Yi](mailto:richardyi25@gmail.com) | richardyi25@gmail.com
 <br/>
 (Please email him; he might be inactive on Messenger/Discord/Skype/AOL/MSN/MySpace/Google Talk)
+--->
 
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
 <br/>
-(This gets forwarded to Richard)
+(This gets forwarded to Jiayue)
 
 # Staff Supervisors
 [Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) | iulia.gugoiu@tdsb.on.ca
