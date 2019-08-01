@@ -1,6 +1,6 @@
 ---
-title: Enigma - <i>Formerly William Lyon Mackenzie Math Club</i>
-description: Home Page
+title: Enigma
+description:  <i>Formerly William Lyon Mackenzie Math Club</i>
 layout: default
 ---
 
