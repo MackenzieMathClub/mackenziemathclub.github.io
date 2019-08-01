@@ -5,7 +5,7 @@ layout: default
 permalink: /lessons/
 ---
 
-2018-2019 Lessons coming soon!™
+[Former Lessons](https://mackenziemathclub.github.io/archive/)
 
 <div class="big">Lessons Archive</div>
 
