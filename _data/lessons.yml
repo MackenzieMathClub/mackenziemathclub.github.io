@@ -6,6 +6,8 @@
 #   presentation: The URL to view the presentation at.
 #   worksheet: The URL to view the presentation at. (optional)
 
+<!---
+
 - title: "Probability"
   date: 2017-10-2
   id: 1
@@ -130,3 +132,5 @@
   id: 20
   presentation: https://github.com/MackenzieMathClub/Lessons/raw/master/Fourier%20Transform/FourierTransformPresentation.pdf
   worksheet: https://github.com/MackenzieMathClub/Lessons/raw/master/Fourier%20Transform/FourierTransformWorksheet.pdf
+  
+  --->
