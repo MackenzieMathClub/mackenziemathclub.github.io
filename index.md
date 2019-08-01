@@ -1,5 +1,5 @@
 ---
-title: William Lyon Mackenzie Math Club
+title: Enigma - <i>Formerly William Lyon Mackenzie Math Club</i>
 description: Home Page
 layout: default
 ---
@@ -14,9 +14,9 @@ layout: default
 
 <hr/>
 
-Welcome to the website for the William Lyon Mackenzie C.I. Math Club!
+Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Math Club!
 
-The 2019--2020 math club is run by Jiayue Wu and Ruven Raizman.
+Our presidents are Jiayue Wu and Ruven Raizman.
 
 <!---
 The 2018--2019 math club is run by Chloe Nguyen, Lev Raizman, and Richard Yi.
