@@ -1,6 +1,6 @@
 ---
 title: Archived Lessons
-description: Lessons from previosu years for all members of Math Club.
+description: Lessons from previous years for all members of Math Club.
 layout: default
 permalink: /archive/
 ---
