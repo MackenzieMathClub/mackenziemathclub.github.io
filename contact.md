@@ -9,7 +9,7 @@ permalink: /contact/
 Ruven Raizman
 
 [Jiayue Wu](mailto:mckee11223@gmail.com) | mckee11223@gmail.com
-<br/>
+<br>
 (Also available on Discord and Messenger)
 
 [Lina Patrick](mailto:lina.patrick@hotmail.ca) | lina.patrick@hotmail.ca
