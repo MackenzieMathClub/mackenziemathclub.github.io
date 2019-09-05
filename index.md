@@ -15,7 +15,6 @@ layout: default
 <hr/>
 <p>
 Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Math Club!
-
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
 
 Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Lina Patrick.
