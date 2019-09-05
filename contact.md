@@ -7,11 +7,11 @@ permalink: /contact/
 
 # Presidents
 Ruven Raizman
-
+<br/>
 [Jiayue Wu](mailto:mckee11223@gmail.com) | mckee11223@gmail.com
 <br/>
 (Also available on Discord and Messenger)
-
+<br/>
 [Lina Patrick](mailto:lina.patrick@hotmail.ca) | lina.patrick@hotmail.ca
 
 
