@@ -20,7 +20,7 @@ Here, you'll find contest registration, past lessons, and contact information fo
 
 Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Lina Patrick.
 </p>
-<br>
+<br/>
 <p>
 Meetings are at lunch in room 227.
 
@@ -35,7 +35,7 @@ We'll be doing crypto, puzzles, contest prep and interesting problems.
 
 Tuesdays are boys math help, and Thursdays are girls math help. Show up to help or be helped, and I can't promise anything, but there *might* be pizza.
 </p>
-<br>
+<br/>
 <p>
 Join us on:
 
