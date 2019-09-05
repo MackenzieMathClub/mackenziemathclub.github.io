@@ -12,7 +12,6 @@ layout: default
 </div>
 --->
 
-<hr/>
 Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Math Club!
 <br/>
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
