@@ -12,6 +12,8 @@ Ruven Raizman
 <br/>
 (Also available on Discord and Messenger)
 
+[Lina Patrick](mailto:lina.patrick@hotmail.ca) | lina.patrick@hotmail.ca
+
 <!---
 Chloe Nguyen
 
