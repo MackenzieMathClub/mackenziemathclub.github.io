@@ -16,7 +16,7 @@ Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Mat
 <br/>
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
 <br/>
-Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Lina Patrick.
+Our presidents are [Jiayue Wu](mailto:mckee11223@gmail.com) and Ruven Raizman. The president of math help is [Lina Patrick](mailto:lina.patrick@hotmail.ca).
 <br/>
 <br/>
 Meetings are at lunch in room 227.
