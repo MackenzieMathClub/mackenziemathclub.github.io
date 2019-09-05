@@ -24,11 +24,11 @@ Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Li
 <p>
 Meetings are at lunch in room 227.
 
-Enigma math club: Mondays
+    Enigma math club: Mondays
 
-Boys math help: Tuesdays
+    Boys math help: Tuesdays
 
-Girls math help: Thursdays
+    Girls math help: Thursdays
 
 Consider coming to Enigma!
 We'll be doing crypto, puzzles, contest prep and interesting problems. 
@@ -39,13 +39,11 @@ Tuesdays are boys math help, and Thursdays are girls math help. Show up to help 
 <p>
 Join us on:
 
-Facebook: https://www.facebook.com/groups/300558366749254
+Facebook: <https://www.facebook.com/groups/300558366749254>
 
-Website: https://mackenziemathclub.github.io/
+Instagram: <https://www.instagram.com/enigma_math_club/>
 
-Instagram: https://www.instagram.com/enigma_math_club/
-
-Discord: https://discord.gg/xJk6cv2
+Discord: <https://discord.gg/xJk6cv2>
 </p>
 <!---
 The 2018--2019 math club is run by Chloe Nguyen, Lev Raizman, and Richard Yi.
