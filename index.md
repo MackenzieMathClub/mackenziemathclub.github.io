@@ -24,11 +24,11 @@ Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Li
 <p>
 Meetings are at lunch in room 227.
 
-  Enigma math club: Mondays
+Enigma math club: Mondays
 
-  Boys math help: Tuesdays
+Boys math help: Tuesdays
 
-  Girls math help: Thursdays
+Girls math help: Thursdays
 
 Consider coming to Enigma!
 We'll be doing crypto, puzzles, contest prep and interesting problems. 
