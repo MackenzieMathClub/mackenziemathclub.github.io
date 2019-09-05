@@ -13,14 +13,15 @@ layout: default
 --->
 
 <hr/>
-
+<p>
 Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Math Club!
 
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
 
 Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Lina Patrick.
-
-
+</p>
+<br>
+<p>
 Meetings are at lunch in room 227.
 
 Enigma math club: Mondays
@@ -33,8 +34,9 @@ Consider coming to Enigma!
 We'll be doing crypto, puzzles, contest prep and interesting problems. 
 
 Tuesdays are boys math help, and Thursdays are girls math help. Show up to help or be helped, and I can't promise anything, but there *might* be pizza.
-
-
+</p>
+<br>
+<p>
 Join us on:
 
 Facebook: https://www.facebook.com/groups/300558366749254
@@ -44,7 +46,7 @@ Website: https://mackenziemathclub.github.io/
 Instagram: https://www.instagram.com/enigma_math_club/
 
 Discord: https://discord.gg/xJk6cv2
-
+</p>
 <!---
 The 2018--2019 math club is run by Chloe Nguyen, Lev Raizman, and Richard Yi.
 --->
