@@ -6,7 +6,7 @@ permalink: /contact/
 ---
 
 # Presidents
-Ruven Raizman
+[Ruven Raizman](mailto:ruven.raizman@gmail.com) | ruven.raizman@gmail.com
 <br/>
 <br/>
 [Jiayue Wu](mailto:mckee11223@gmail.com) | mckee11223@gmail.com
