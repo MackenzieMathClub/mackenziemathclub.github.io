@@ -7,7 +7,7 @@ permalink: /contests/
 
 No contests yet! Check back often for updates, or join us on Facebook or Discord!
 
-<h2>2019-2020 Contest schedule:</h2>
+<h2>2019-2020 Contest Schedule:</h2>
 
 Pascal/Cayley/Fermat (multiple choice): Feb. 25, 2020
 
@@ -17,7 +17,7 @@ Euclid (long answer, important for prospective Waterloo students): April 7, 2020
 
 <b>CSMC and CIMC: November 20, 2019</b>
 
-<h2>To practice, check out these resources:</h2>
+<h2>Resources:</h2>
 
 Past Waterloo contests (with answers): https://cemc.uwaterloo.ca/contests/past_contests.html
 
