@@ -17,6 +17,12 @@ Euclid (long answer, important for prospective Waterloo students): April 7, 2020
 
 <b>CSMC and CIMC: November 20, 2019</b>
 
+<b>COMC: November 7, 2019</b>
+
+AMC 10/12 A: January 30, 2020 (not offered at Mackenzie)
+
+AMC 10/12 B: February 5, 2020
+
 <h2>Resources:</h2>
 
 Past Waterloo contests (with answers): https://cemc.uwaterloo.ca/contests/past_contests.html
