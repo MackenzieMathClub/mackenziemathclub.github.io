@@ -25,7 +25,7 @@ AMC 10/12 B: February 5, 2020
 
 <h2>Resources:</h2>
 
-Past Waterloo contests (with answers): https://cemc.uwaterloo.ca/contests/past_contests.html
+Past Waterloo contests (with answers): <https://cemc.uwaterloo.ca/contests/past_contests.html>
 
 Past COMC contests (with answers, but older ones have typos): https://cms.math.ca/Competitions/COMC/2019/
 
