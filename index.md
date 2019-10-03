@@ -1,6 +1,6 @@
 ---
-title: Enigma
-description:  <i>Formerly William Lyon Mackenzie Math Club</i>
+title: Mackenzie Math Club
+description:  <i>Contest prep and interesting problems</i>
 layout: default
 ---
 
@@ -12,7 +12,7 @@ layout: default
 </div>
 --->
 <hr/>
-Welcome to the website for Enigma - formerly the William Lyon Mackenzie C.I. Math Club!
+Welcome to the website for the William Lyon Mackenzie C.I. Math Club!
 <br/>
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
 <br/>
@@ -21,13 +21,13 @@ Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Li
 <br/>
 Meetings are at lunch in room 227.
 <br/>
-Enigma math club: Mondays
+Mackenzie Math club: Mondays
 <br/>
 Boys math help: Tuesdays
 <br/>
 Girls math help: Thursdays
 <br/>
-Consider coming to Enigma!
+Consider coming to Mackenzie Math Club!
 We'll be doing crypto, puzzles, contest prep and interesting problems. 
 <br/>
 Tuesdays are boys math help, and Thursdays are girls math help. Show up to help or be helped, and I can't promise anything, but there *might* be pizza.
@@ -36,8 +36,6 @@ Tuesdays are boys math help, and Thursdays are girls math help. Show up to help 
 Join us on:
 <br/>
 Facebook: <https://www.facebook.com/groups/300558366749254>
-<br/>
-Instagram: <https://www.instagram.com/enigma_math_club/>
 <br/>
 Discord: <https://discord.gg/xJk6cv2>
 
