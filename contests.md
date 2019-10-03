@@ -5,7 +5,13 @@ layout: default
 permalink: /contests/
 ---
 
-No contests yet! Check back often for updates, or join us on Facebook or Discord!
+<h1> CIMC/CSMC and COMC sign-ups are now open! 
+  
+COMC: https://docs.google.com/forms/d/e/1FAIpQLSc9fm0znEgma877S-CKhddQrV_RLVXt0_HrDg7oCUIa8kgC1g/viewform
+
+CIMC/CSMC: https://docs.google.com/forms/d/e/1FAIpQLScPBTinXOQ2Dtt2y9XNVZ5vAdXQfNcdvhk7aUD4ToFTQojFDA/viewform?fbzx=-1112589707622333629
+
+</h1>
 
 <h2>2019-2020 Contest Schedule:</h2>
 
