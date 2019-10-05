@@ -6,15 +6,15 @@ permalink: /contact/
 ---
 
 # Presidents
-[Ruven Raizman](mailto:ruven.raizman@gmail.com) | ruven.raizman@gmail.com
+[Ruven Raizman](mailto:ruven.raizman@gmail.com) | [ruven.raizman@gmail.com](mailto:ruven.raizman@gmail.com)
 <br/>
 <br/>
-[Jiayue Wu](mailto:jiayuewu16@gmail.com) | jiayuewu16@gmail.com
+[Jiayue Wu](mailto:jiayuewu16@gmail.com) | [jiayuewu16@gmail.com](mailto:jiayuewu16@gmail.com)
 <br/>
 (Also available on Discord and Messenger)
 <br/>
 <br/>
-[Lina Patrick](mailto:lina.patrick@hotmail.ca) | lina.patrick@hotmail.ca
+[Lina Patrick](mailto:lina.patrick@hotmail.ca) | [lina.patrick@hotmail.ca](mailto:lina.patrick@hotmail.ca)
 
 
 <!---
@@ -33,4 +33,4 @@ Lev Raizman
 (This gets forwarded to Jiayue)
 
 # Staff Supervisors
-[Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) | iulia.gugoiu@tdsb.on.ca
+[Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) | [iulia.gugoiu@tdsb.on.ca](mailto:iulia.gugoiu@tdsb.on.ca)
