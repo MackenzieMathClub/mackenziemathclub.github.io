@@ -4,13 +4,6 @@ description: Sign up for math contests.
 layout: default
 permalink: /contests/
 ---
-
-<h1> CIMC/CSMC and COMC sign-ups are now open! </h1>
-  
-COMC: [https://docs.google.com/forms/d/e/1FAIpQLSc9fm0znEgma877S-CKhddQrV_RLVXt0_HrDg7oCUIa8kgC1g/viewform](https://docs.google.com/forms/d/e/1FAIpQLSc9fm0znEgma877S-CKhddQrV_RLVXt0_HrDg7oCUIa8kgC1g/viewform)
-
-CIMC/CSMC: [https://docs.google.com/forms/d/e/1FAIpQLScPBTinXOQ2Dtt2y9XNVZ5vAdXQfNcdvhk7aUD4ToFTQojFDA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScPBTinXOQ2Dtt2y9XNVZ5vAdXQfNcdvhk7aUD4ToFTQojFDA/viewform)
-
 <h2>2019-2020 Contest Schedule:</h2>
 
 Pascal/Cayley/Fermat (multiple choice): Feb. 25, 2020
