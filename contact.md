@@ -13,7 +13,7 @@ permalink: /contact/
 <br/>
 
 
-<!--
+<!---
 Chloe Nguyen
 
 Lev Raizman
@@ -32,7 +32,7 @@ Lev Raizman
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
 <br/>
-(This gets forwarded to Jiayue)
+(This gets forwarded to Ruven)
 
 # Staff Supervisors
 [Mrs. Gugoiu](mailto:iulia.gugoiu@tdsb.on.ca) | [iulia.gugoiu@tdsb.on.ca](mailto:iulia.gugoiu@tdsb.on.ca)
