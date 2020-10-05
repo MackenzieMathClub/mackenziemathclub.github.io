@@ -4,21 +4,21 @@ description: Sign up for math contests.
 layout: default
 permalink: /contests/
 ---
-<h2>2019-2020 Contest Schedule:</h2>
+<h2>2020-2021 Contest Schedule:</h2>
 
-Pascal/Cayley/Fermat (multiple choice): Feb. 25, 2020
+Pascal/Cayley/Fermat (multiple choice): Feb. 23, 2021
 
-Fryer/Galois/Hypatia (long answer): April 15, 2020
+Fryer/Galois/Hypatia (long answer): April 14, 2021
 
-Euclid (long answer, important for prospective Waterloo students): April 7, 2020
+Euclid (long answer, important for prospective Waterloo students): April 07, 2021
 
-<b>CSMC and CIMC: November 20, 2019</b>
+<b>CSMC and CIMC: November 18, 2020</b>
 
-<b>COMC: November 7, 2019</b>
+<b>COMC: October 29, 2020</b>
 
-AMC 10/12 A: January 30, 2020 (not offered at Mackenzie)
+AMC 10/12 A: February 04, 2021 (not offered at Mackenzie)
 
-AMC 10/12 B: February 5, 2020
+AMC 10/12 B: February 10, 2021
 
 <h2>Resources:</h2>
 
