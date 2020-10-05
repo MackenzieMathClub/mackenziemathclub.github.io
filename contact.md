@@ -9,7 +9,7 @@ permalink: /contact/
 [Ruven Raizman](mailto:ruven.raizman@gmail.com) | [ruven.raizman@gmail.com](mailto:ruven.raizman@gmail.com)
 <br/>
 [Matthew Li](mailto:hewmatt10@gmail.com) | [hewmatt10@gmail.com](hewmatt10@gmail.com)
-<!---
+<!--
 Chloe Nguyen
 
 Lev Raizman
