@@ -8,10 +8,12 @@ permalink: /contact/
 # Presidents
 [Ruven Raizman](mailto:ruven.raizman@gmail.com) | [ruven.raizman@gmail.com](mailto:ruven.raizman@gmail.com)
 <br/>
-[Matthew Li](mailto:hewmatt10@gmail.com) | [hewmatt10@gmail.com](hewmatt10@gmail.com)
+[Matthew Li](mailto:hewmatt10@gmail.com) | [hewmatt10@gmail.com](mailto:hewmatt10@gmail.com)
 <br/>
 <br/>
-<!---
+
+
+<!--
 Chloe Nguyen
 
 Lev Raizman
@@ -25,8 +27,7 @@ Lev Raizman
 (Also available on Discord and Messenger)
 <br/>
 [Lina Patrick](mailto:lina.patrick@hotmail.ca) | [lina.patrick@hotmail.ca](mailto:lina.patrick@hotmail.ca)
-
----->
+-->
 
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
