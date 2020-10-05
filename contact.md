@@ -11,7 +11,7 @@ permalink: /contact/
 [Matthew Li](mailto:hewmatt10@gmail.com) | [hewmatt10@gmail.com](hewmatt10@gmail.com)
 <br/>
 <br/>
-<!--
+<!---
 Chloe Nguyen
 
 Lev Raizman
@@ -26,7 +26,7 @@ Lev Raizman
 <br/>
 [Lina Patrick](mailto:lina.patrick@hotmail.ca) | [lina.patrick@hotmail.ca](mailto:lina.patrick@hotmail.ca)
 
--->
+---->
 
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
