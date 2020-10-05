@@ -16,10 +16,10 @@ Welcome to the website for the William Lyon Mackenzie C.I. Math Club!
 <br/>
 Here, you'll find contest registration, past lessons, and contact information for our presidents and staff supervisor.
 <br/>
-Our presidents are Jiayue Wu and Ruven Raizman. The president of math help is Lina Patrick.
+Our presidents are Ruven Raizman and Matthew Li.
 <br/>
 <br/>
-Meetings are at lunch in room 227.
+Meetings were at lunch in room 227. Now they are on Mondays from 4:00 to 5:00.
 <br/>
 Mackenzie Math club: Mondays
 <br/>
