@@ -24,7 +24,7 @@ Lev Raizman
 <br/>
 [Lina Patrick](mailto:lina.patrick@hotmail.ca) | [lina.patrick@hotmail.ca](mailto:lina.patrick@hotmail.ca)
 
---->
+-->
 
 ## Official Contact Email
 [wlmacmathclub@gmail.com](mailto:wlmacmathclub@gmail.com)
